@@ -1,0 +1,20 @@
+C:\Users\usrlab09\source\repos\multiplicacaoMatriz\multiplicacaoMatriz\bin\Debug\multiplicacaoMatriz.exe.config
+C:\Users\usrlab09\source\repos\multiplicacaoMatriz\multiplicacaoMatriz\bin\Debug\multiplicacaoMatriz.exe
+C:\Users\usrlab09\source\repos\multiplicacaoMatriz\multiplicacaoMatriz\bin\Debug\multiplicacaoMatriz.pdb
+C:\Users\usrlab09\source\repos\multiplicacaoMatriz\multiplicacaoMatriz\obj\Debug\multiplicacaoMatriz.csprojAssemblyReference.cache
+C:\Users\usrlab09\source\repos\multiplicacaoMatriz\multiplicacaoMatriz\obj\Debug\multiplicacaoMatriz.Form1.resources
+C:\Users\usrlab09\source\repos\multiplicacaoMatriz\multiplicacaoMatriz\obj\Debug\multiplicacaoMatriz.Properties.Resources.resources
+C:\Users\usrlab09\source\repos\multiplicacaoMatriz\multiplicacaoMatriz\obj\Debug\multiplicacaoMatriz.csproj.GenerateResource.cache
+C:\Users\usrlab09\source\repos\multiplicacaoMatriz\multiplicacaoMatriz\obj\Debug\multiplicacaoMatriz.csproj.CoreCompileInputs.cache
+C:\Users\usrlab09\source\repos\multiplicacaoMatriz\multiplicacaoMatriz\obj\Debug\multiplicacaoMatriz.exe
+C:\Users\usrlab09\source\repos\multiplicacaoMatriz\multiplicacaoMatriz\obj\Debug\multiplicacaoMatriz.pdb
+F:\Faculdade\6 semestre\Otimização Computacional\multiplicacaoMatriz\multiplicacaoMatriz\bin\Debug\multiplicacaoMatriz.exe.config
+F:\Faculdade\6 semestre\Otimização Computacional\multiplicacaoMatriz\multiplicacaoMatriz\bin\Debug\multiplicacaoMatriz.exe
+F:\Faculdade\6 semestre\Otimização Computacional\multiplicacaoMatriz\multiplicacaoMatriz\bin\Debug\multiplicacaoMatriz.pdb
+F:\Faculdade\6 semestre\Otimização Computacional\multiplicacaoMatriz\multiplicacaoMatriz\obj\Debug\multiplicacaoMatriz.csprojAssemblyReference.cache
+F:\Faculdade\6 semestre\Otimização Computacional\multiplicacaoMatriz\multiplicacaoMatriz\obj\Debug\multiplicacaoMatriz.Form1.resources
+F:\Faculdade\6 semestre\Otimização Computacional\multiplicacaoMatriz\multiplicacaoMatriz\obj\Debug\multiplicacaoMatriz.Properties.Resources.resources
+F:\Faculdade\6 semestre\Otimização Computacional\multiplicacaoMatriz\multiplicacaoMatriz\obj\Debug\multiplicacaoMatriz.csproj.GenerateResource.cache
+F:\Faculdade\6 semestre\Otimização Computacional\multiplicacaoMatriz\multiplicacaoMatriz\obj\Debug\multiplicacaoMatriz.csproj.CoreCompileInputs.cache
+F:\Faculdade\6 semestre\Otimização Computacional\multiplicacaoMatriz\multiplicacaoMatriz\obj\Debug\multiplicacaoMatriz.exe
+F:\Faculdade\6 semestre\Otimização Computacional\multiplicacaoMatriz\multiplicacaoMatriz\obj\Debug\multiplicacaoMatriz.pdb

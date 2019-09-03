@@ -1,0 +1,33 @@
+C:\Users\usrlab09\source\repos\revisao3matematica\revisao3matematica\bin\Debug\netcoreapp2.1\revisao3matematica.deps.json
+C:\Users\usrlab09\source\repos\revisao3matematica\revisao3matematica\bin\Debug\netcoreapp2.1\revisao3matematica.runtimeconfig.json
+C:\Users\usrlab09\source\repos\revisao3matematica\revisao3matematica\bin\Debug\netcoreapp2.1\revisao3matematica.runtimeconfig.dev.json
+C:\Users\usrlab09\source\repos\revisao3matematica\revisao3matematica\bin\Debug\netcoreapp2.1\revisao3matematica.dll
+C:\Users\usrlab09\source\repos\revisao3matematica\revisao3matematica\bin\Debug\netcoreapp2.1\revisao3matematica.pdb
+C:\Users\usrlab09\source\repos\revisao3matematica\revisao3matematica\obj\Debug\netcoreapp2.1\revisao3matematica.csprojAssemblyReference.cache
+C:\Users\usrlab09\source\repos\revisao3matematica\revisao3matematica\obj\Debug\netcoreapp2.1\revisao3matematica.csproj.CoreCompileInputs.cache
+C:\Users\usrlab09\source\repos\revisao3matematica\revisao3matematica\obj\Debug\netcoreapp2.1\revisao3matematica.AssemblyInfoInputs.cache
+C:\Users\usrlab09\source\repos\revisao3matematica\revisao3matematica\obj\Debug\netcoreapp2.1\revisao3matematica.AssemblyInfo.cs
+C:\Users\usrlab09\source\repos\revisao3matematica\revisao3matematica\obj\Debug\netcoreapp2.1\revisao3matematica.dll
+C:\Users\usrlab09\source\repos\revisao3matematica\revisao3matematica\obj\Debug\netcoreapp2.1\revisao3matematica.pdb
+F:\Faculdade\6 semestre\Otimização Computacional\meus exercicios\revisao3matematica\revisao3matematica\bin\Debug\netcoreapp2.1\revisao3matematica.deps.json
+F:\Faculdade\6 semestre\Otimização Computacional\meus exercicios\revisao3matematica\revisao3matematica\bin\Debug\netcoreapp2.1\revisao3matematica.runtimeconfig.json
+F:\Faculdade\6 semestre\Otimização Computacional\meus exercicios\revisao3matematica\revisao3matematica\bin\Debug\netcoreapp2.1\revisao3matematica.runtimeconfig.dev.json
+F:\Faculdade\6 semestre\Otimização Computacional\meus exercicios\revisao3matematica\revisao3matematica\bin\Debug\netcoreapp2.1\revisao3matematica.dll
+F:\Faculdade\6 semestre\Otimização Computacional\meus exercicios\revisao3matematica\revisao3matematica\bin\Debug\netcoreapp2.1\revisao3matematica.pdb
+F:\Faculdade\6 semestre\Otimização Computacional\meus exercicios\revisao3matematica\revisao3matematica\obj\Debug\netcoreapp2.1\revisao3matematica.csprojAssemblyReference.cache
+F:\Faculdade\6 semestre\Otimização Computacional\meus exercicios\revisao3matematica\revisao3matematica\obj\Debug\netcoreapp2.1\revisao3matematica.csproj.CoreCompileInputs.cache
+F:\Faculdade\6 semestre\Otimização Computacional\meus exercicios\revisao3matematica\revisao3matematica\obj\Debug\netcoreapp2.1\revisao3matematica.AssemblyInfoInputs.cache
+F:\Faculdade\6 semestre\Otimização Computacional\meus exercicios\revisao3matematica\revisao3matematica\obj\Debug\netcoreapp2.1\revisao3matematica.AssemblyInfo.cs
+F:\Faculdade\6 semestre\Otimização Computacional\meus exercicios\revisao3matematica\revisao3matematica\obj\Debug\netcoreapp2.1\revisao3matematica.dll
+F:\Faculdade\6 semestre\Otimização Computacional\meus exercicios\revisao3matematica\revisao3matematica\obj\Debug\netcoreapp2.1\revisao3matematica.pdb
+E:\Faculdade\6 semestre\Otimização Computacional\meus exercicios\revisao3matematica\revisao3matematica\bin\Debug\netcoreapp2.1\revisao3matematica.deps.json
+E:\Faculdade\6 semestre\Otimização Computacional\meus exercicios\revisao3matematica\revisao3matematica\bin\Debug\netcoreapp2.1\revisao3matematica.runtimeconfig.json
+E:\Faculdade\6 semestre\Otimização Computacional\meus exercicios\revisao3matematica\revisao3matematica\bin\Debug\netcoreapp2.1\revisao3matematica.runtimeconfig.dev.json
+E:\Faculdade\6 semestre\Otimização Computacional\meus exercicios\revisao3matematica\revisao3matematica\bin\Debug\netcoreapp2.1\revisao3matematica.dll
+E:\Faculdade\6 semestre\Otimização Computacional\meus exercicios\revisao3matematica\revisao3matematica\bin\Debug\netcoreapp2.1\revisao3matematica.pdb
+E:\Faculdade\6 semestre\Otimização Computacional\meus exercicios\revisao3matematica\revisao3matematica\obj\Debug\netcoreapp2.1\revisao3matematica.csprojAssemblyReference.cache
+E:\Faculdade\6 semestre\Otimização Computacional\meus exercicios\revisao3matematica\revisao3matematica\obj\Debug\netcoreapp2.1\revisao3matematica.csproj.CoreCompileInputs.cache
+E:\Faculdade\6 semestre\Otimização Computacional\meus exercicios\revisao3matematica\revisao3matematica\obj\Debug\netcoreapp2.1\revisao3matematica.AssemblyInfoInputs.cache
+E:\Faculdade\6 semestre\Otimização Computacional\meus exercicios\revisao3matematica\revisao3matematica\obj\Debug\netcoreapp2.1\revisao3matematica.AssemblyInfo.cs
+E:\Faculdade\6 semestre\Otimização Computacional\meus exercicios\revisao3matematica\revisao3matematica\obj\Debug\netcoreapp2.1\revisao3matematica.dll
+E:\Faculdade\6 semestre\Otimização Computacional\meus exercicios\revisao3matematica\revisao3matematica\obj\Debug\netcoreapp2.1\revisao3matematica.pdb
